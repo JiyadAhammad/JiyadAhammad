@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiyad Ahammad</h1>
-<h3 align="center">A passionate Mobile App developer(FLUTTER) from India</h3>
+<h3 align="center">I'M a Flutter FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyadahammad&label=Profile%20views&color=0e75b6&style=flat" alt="jiyadahammad" /> </p>
 
