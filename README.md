@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jiyad Ahammad</h1>
-
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jiyad+%F0%9F%91%8B;FullStack-+Flutter+-Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
+
+<hr>
+
+<h1 align="center">Hi 👋, I'm Jiyad Ahammad</h1>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyadahammad&label=Profile%20views&color=0e75b6&style=flat" alt="jiyadahammad" /> </p>
 
