@@ -11,6 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyadahammad&label=Profile%20views&color=0e75b6&style=flat" alt="jiyadahammad" /> </p>
 
 
+![Jiyad's github stats](https://github-readme-stats.vercel.app/api?username=jiyadahammad&show_icons=true&theme=react)
+
+
 - 🔭 I’m currently working on **Food Delivery App**
 
 - 🌱 I’m currently learning **Flutter**
