@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center">Hi 👋, I'm Jiyad Ahammad</h1>
+<!-- <h1 align="center">Hi 👋, I'm Jiyad Ahammad</h1> -->
 
 
 
@@ -27,12 +27,11 @@
 - 📫 How to reach me **jiyadahammad99@gmail.com**
 
 
-[![@jiaydahammad's Holopin board](https://holopin.me/jiaydahammad)](https://holopin.io/@jiaydahammad)<br><br><br>
 
 
 
 
-<img align="center" alt="flutter" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"><br><br><br>
+<!-- <img align="center" alt="flutter" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"><br><br><br> -->
 
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiyadahammad" alt="jiyadahammad" /></a> </p> -->
@@ -52,6 +51,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadahammad&show_icons=true&locale=en&layout=compact" alt="jiyadahammad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyadahammad&show_icons=true&locale=en" alt="jiyadahammad" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadahammad&" alt="jiyadahammad" /></p>
+
+<br><br><br>[![@jiaydahammad's Holopin board](https://holopin.me/jiaydahammad)](https://holopin.io/@jiaydahammad)<br><br><br>
+
