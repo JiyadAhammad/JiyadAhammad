@@ -14,7 +14,7 @@
 ![Jiyad's github stats](https://github-readme-stats.vercel.app/api?username=jiyadahammad&show_icons=true&theme=react)
 
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently working at **OONZOO PORTAL LLC**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [Mobile App Development](Mobile App Development)
 
-- 💬 Ask me about **C, Java, Dart, Flutter, Hive, Html, CSS,**
+- 💬 Ask me about **C, Java, Dart, Flutter, Hive, Html, CSS, API Integration**
 
 - 📫 How to reach me **jiyadahammad99@gmail.com**
 
