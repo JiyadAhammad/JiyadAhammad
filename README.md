@@ -53,5 +53,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadahammad&" alt="jiyadahammad" /></p>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jiyadahammad&&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 <br><br><br>[![@jiaydahammad's Holopin board](https://holopin.me/jiaydahammad)](https://holopin.io/@jiaydahammad)<br><br><br>
 
