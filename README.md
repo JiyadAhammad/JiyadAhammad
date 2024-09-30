@@ -10,6 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyadahammad&label=Profile%20views&color=0e75b6&style=flat" alt="jiyadahammad" /> </p>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jiyadahammad&&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 
 ![Jiyad's github stats](https://github-readme-stats.vercel.app/api?username=jiyadahammad&show_icons=true&theme=react)
 
@@ -52,9 +55,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadahammad&show_icons=true&locale=en&layout=compact" alt="jiyadahammad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadahammad&" alt="jiyadahammad" /></p>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jiyadahammad&&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <br><br><br>[![@jiaydahammad's Holopin board](https://holopin.me/jiaydahammad)](https://holopin.io/@jiaydahammad)<br><br><br>
 
