@@ -16,6 +16,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jiyadahammad&&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+## ⚙️ LeetCode Analytics
+<p align="center">
+    <a href="https://leetcode.com/ijasmoopan/"><img width="48%" src="https://leetcode.card.workers.dev/ijasmoopan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+</p>
+
 
 - 🔭 I’m currently working at [OONZOO PORTAL LLC](https://oonzoo.ae/)
 
