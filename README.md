@@ -30,7 +30,7 @@
 
 - 📝 I regularly write articles on [Mobile App Development](Mobile App Development)
 
-- 💬 Ask me about **C, Java, Dart, Flutter, Hive, Html, CSS, API Integration**
+- 💬 Ask me about **C, Java, Dart, Flutter, Hive, Html, CSS, Python, Fastapi API Integration**
 
 - 📫 How to reach me **jiyadahammad99@gmail.com**
 
